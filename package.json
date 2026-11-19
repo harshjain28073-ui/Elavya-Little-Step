@@ -1,0 +1,9 @@
+{
+  "name": "elavya-little-step",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "node scripts/build.js"
+  }
+}
